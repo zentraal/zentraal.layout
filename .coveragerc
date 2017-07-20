@@ -1,0 +1,6 @@
+[report]
+include =
+    src/zentraal/*
+omit =
+    */test*
+    */upgrades/*

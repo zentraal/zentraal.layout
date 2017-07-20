@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<object>
+
+<!--Hidden Viewlets-->
+
+  <hidden manager="plone.belowcontenttitle">
+    <viewlet name="zentraal.contentleadimage" />
+  </hidden>
+  
+</object>
